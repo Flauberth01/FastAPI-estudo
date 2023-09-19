@@ -12,4 +12,3 @@ settings = Dynaconf(
     env_switcher="pamps_env",
     load_dotenv=False,
 )
- 
